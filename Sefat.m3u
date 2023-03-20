@@ -1,205 +1,207 @@
 #EXTM3U
-#EXTINF:-0 tvg-id="" tvg-name="SAUDIA QURAN HD" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
 http://cuts2.com/Ngf2023
 
-#EXTINF:-1 tvg-id="" tvg-name="Deen TV" tvg-logo="https://i.imgur.com/QNCosaS.png",Deen TV
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/QNCosaS.png",Deen TV
 http://cuts2.com/Pyff2023
 
-#EXTINF:-2  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
 http://cuts2.com/mkqgf2023
 
-#EXTINF:-3  tvg-logo="https://i.postimg.cc/Xvt3MSSW/madani-channel-vipotv.png",Madani Channel
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Xvt3MSSW/madani-channel-vipotv.png",Madani Channel
 http://cuts2.com/lgfd2023
 
-#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
 http://cuts2.com/Psss2023
 
-#EXTINF:-5 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlL9hBuRunVRknsCSGVylG7p4Sdv76UMLkg&usqp=CAU", ATN Islamic 
 http://cuts2.com/fddd2023
 
-#EXTINF:-6 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
 http://cuts2.com/Gffdd2023
 
-#EXTINF:-8 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU ",Al Jazeera
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU ",Al Jazeera
 http://cuts2.com/Asss2023
 
-#EXTINF:-9 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 http://cuts2.com/Gddd2023s
 
-#EXTINF:-10 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
 http://cuts2.com/New2023s
 
-#EXTINF:-11 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
 http://cuts2.com/Indp2023s
 
-#EXTINF:-12 tvg-id="(no tvg-id)" tvg-name="Asian Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
 http://cuts2.com/Asi2023s
 
-#EXTINF:-13 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
 http://cuts2.com/Eka2023s
 
-#EXTINF:-14 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
 http://cuts2.com/Somo2023s
 
-#EXTINF:-15 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",Channel 24
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",Channel 24
 http://cuts2.com/Chann242023s
 
-#EXTINF:-16 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
 http://cuts2.com/Sa2023s
 
-#EXTINF:-17 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
 http://cuts2.com/Atnn2023s
 
-#EXTINF:-20 tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV HD
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV HD
 http://cuts2.com/Gaz2023s
 
-#EXTINF:-21 tvg-id="(no tvg-id)" tvg-name="Zee ২৪ ঘন্টা" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee ২৪ ঘন্টা
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee ২৪ ঘন্টা
 http://cuts2.com/Zee24G2023s
 
-#EXTINF:-22 tvg-id="(no tvg-id)" tvg-name="ABP Ananda" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwYT9bs65T6eT4R4vbnJpmSWe1AZhboh0U9lSrf70iliIhatzJa9EBoK3&s=10",ABP Ananda
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwYT9bs65T6eT4R4vbnJpmSWe1AZhboh0U9lSrf70iliIhatzJa9EBoK3&s=10",ABP Ananda
 http://cuts2.com/ABPA2023s
 
-#EXTINF:-23 tvg-id="(no tvg-id)" tvg-name="Kolkata Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgztOKN0rcpkp9mLR1TohZmXSj1vg8TB-Xog&usqp=CAU",Kolkata Tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgztOKN0rcpkp9mLR1TohZmXSj1vg8TB-Xog&usqp=CAU",Kolkata Tv
 http://cuts2.com/Kolk2023s
 
-#EXTINF:-24 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
 http://cuts2.com/Btv2023s
 
-#EXTINF:-25 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
 http://cuts2.com/Masr2023s
 
-#EXTINF:-26 tvg-id="(notvg-id)" tvg-name="Deepto tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto TV  
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto TV  
 http://cuts2.com/Deeptot2023s
 
 
-#EXTINF:-40 tvg-id="(no tvg-id)" tvg-name="duronto-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
 http://cuts2.com/Durotv2023s
 
 
-#EXTINF:-43  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzFa692km2NL5BdivfGPw5jKcstROKDpCUQ&usqp=CAU",Voice Tv   
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzFa692km2NL5BdivfGPw5jKcstROKDpCUQ&usqp=CAU",Voice Tv   
 http://cuts2.com/Voic2023s
 
-#EXTINF:-56 tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",JagoNews24 TV
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",JagoNews24 TV
 http://cuts2.com/Dsi-123-jagonews2023s
 
-#EXTINF:-62 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
 http://cuts2.com/Sonyaa2023
 
-#EXTINF:-63 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
 http://cuts2.com/Akashaa2023s
 
-#EXTINF:-64 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
 http://cuts2.com/KidsDisc2023s
 
-#EXTINF:-65 tvg-id="(no tvg-id)" tvg-name="Disney Channel- Hindi" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel 
 http://cuts2.com/Disn2023s
 
-#EXTINF:-66 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
 http://cuts2.com/Sonic2023s
 
-#EXTINF:-68 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg",PBS KIDS 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg",PBS KIDS 
 http://cuts2.com/Pbsk2023s
 
-#EXTINF:-69 tvg-id="(no tvg-id)" tvg-name="Wow Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
 http://cuts2.com/Wowk2023s
 
-#EXTINF:-70 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016", Rongeen tv   
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016", Rongeen tv   
 http://cuts2.com/Rongi2023s
 
-#EXTINF:-71 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
 http://cuts2.com/Nick2023s
 
-#EXTINF:-72 tvg-id="(no tvg-id)" tvg-name="Nick jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
 http://cuts2.com/JrNick2023s
 
-#EXTINF:-73 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMl8y3G_QDpCEpZ3e3zSfCWuUhZOxq4jH4g&usqp=CAU", Nick Pluto
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMl8y3G_QDpCEpZ3e3zSfCWuUhZOxq4jH4g&usqp=CAU", Nick Pluto
 http://cuts2.com/NickPl2023s
 
-#EXTINF:-74 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
 http://cuts2.com/CartoonNet2023s
 
-#EXTINF:-75 tvg-id="(no tvg-id)" tvg-name="Sony Yay (Bangla)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yay    
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yay    
 http://cuts2.com/Sonyy2023s
 
-#EXTINF:-76 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliEjPXGJeU9ATV4r00fcP3bVrJtEYn6EIVw&usqp=CAU",Kids Creation TV  
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliEjPXGJeU9ATV4r00fcP3bVrJtEYn6EIVw&usqp=CAU",Kids Creation TV  
 https://moonbug-rokuus.amagi.tv/playlist720-p.m3u8
 
-#EXTINF:118  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zYsa8lbBUCz9ItWcXWjjdiSuogAsZA0wWg&usqp=CAU",Wild Earth
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zYsa8lbBUCz9ItWcXWjjdiSuogAsZA0wWg&usqp=CAU",Wild Earth
 http://cuts2.com/dbidsi2023s
 
-#EXTINF:-119 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6cIrsbeGfVkNSkrEzZKJCeKbszSfmwpJQA&usqp=CAU",Love Nature 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6cIrsbeGfVkNSkrEzZKJCeKbszSfmwpJQA&usqp=CAU",Love Nature 
 http://cuts2.com/LoveNa2023s
 
-#EXTINF:120 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg",BBC EARTH
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg",BBC EARTH
 http://cuts2.com/BbcEa2023s
 
-#EXTINF:-121 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET [Hindi]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
 http://cuts2.com/AnimalPl2023s
 
-#EXTINF:-122 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
 http://cuts2.com/Discoveryhd2023s
 
-#EXTINF:-123 tvg-id="(no tvg-id)" tvg-name="Discovery Tarbu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
 http://cuts2.com/Distar2023s
 
-#EXTINF:-124 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
 http://cuts2.com/DisScien2023s
 
-#EXTINF:-125 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
 http://cuts2.com/Histch2023s
 
-#EXTINF:-126  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
 http://cuts2.com/Cgtndoc2023s
 
-#EXTINF: -127 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgEP8ha4KiYg4UxTHVNhF5geKUkFkwXhcGsQ&usqp=CAU", Viasat Nature
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgEP8ha4KiYg4UxTHVNhF5geKUkFkwXhcGsQ&usqp=CAU", Viasat Nature
 http://cuts2.com/Via2023s
 
-#EXTINF:-128 tvg-id="(no tvg-id)" tvg-name="Nasa Tv" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
 http://cuts2.com/Nasa2023s
 
-#EXTINF:-129 tvg-id="(no tvg-id)" tvg-name="National Geographic HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
 http://cuts2.com/Nationalgeo2023s
 
-#EXTINF:-130 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO WILD 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO WILD 
 http://cuts2.com/NatGeo2023s
 
-#EXTINF:-131 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC 
 http://cuts2.com/Tlc2023s
 
-#EXTINF:-136 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",TravelXP 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",TravelXP 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
-#EXTINF:-137 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGLQW9WuuEdBPu0Vpnvf05X00wkx83IE8fnl6qAhgJHDihDQUEYZnU9s&s=10",Red-Bull-TV 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGLQW9WuuEdBPu0Vpnvf05X00wkx83IE8fnl6qAhgJHDihDQUEYZnU9s&s=10",Red-Bull-TV 
 http://cuts2.com/Redb2023s
  
-#EXTINF:-138 tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-1-Transparent.png", Sony Sports 1   
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-1-Transparent.png", Sony Sports 1   
 http://cuts2.com/Sonyten12023s
 
-#EXTINF:-139 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2C88os_DEEu3n0u1D4k2WRbQ3K0qGe2jPiQ&usqp=CAU", Sony Sports 2   
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2C88os_DEEu3n0u1D4k2WRbQ3K0qGe2jPiQ&usqp=CAU", Sony Sports 2   
 http://cuts2.com/Sonyten22023
 
-#EXTINF:-141 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
 http://cuts2.com/Tsphd2023s
 
-#EXTINF:-143 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
 http://cuts2.com/StarSp12023s
 
-#EXTINF:-144 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://imgur.com/5otfnBt.png",Star Sports 2 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://imgur.com/5otfnBt.png",Star Sports 2 
 http://cuts2.com/Stars22023s
 
-#EXTINF:-145  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_aL13Eyfo_ucQJwRQjQCiVxf6fHteJ-G7g&usqp=CAU", STAR SPORTS SELECT 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_aL13Eyfo_ucQJwRQjQCiVxf6fHteJ-G7g&usqp=CAU", STAR SPORTS SELECT 
 http://cuts2.com/Stspsil2023s
 
 
-#EXTINF:-147 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQeSJZYyMIkl4A5cDRFWmxe3VRpDkjOqJgw&usqp=CAU",Geo Super  
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQeSJZYyMIkl4A5cDRFWmxe3VRpDkjOqJgw&usqp=CAU",Geo Super  
 http://cuts2.com/GeoS2023s
 
-#EXTINF:-148 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://cuts2.com/Ptvspo2023s
 
-#EXTINF:-150 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kHMX2sXvp5qqkKnmqtZI0NEUaWUCRNc00A&usqp=CAU",Euro Sport 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kHMX2sXvp5qqkKnmqtZI0NEUaWUCRNc00A&usqp=CAU",Euro Sport 
 http://cuts2.com/dsi2023s
 
-#EXTINF:-151  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
 http://cuts2.com/Beinsp2023s
+
+
 
