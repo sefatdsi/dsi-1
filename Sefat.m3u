@@ -33,7 +33,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8?token=57
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
-https://www.bioscopelive.com/channel/asian-tv-hd?contentUuid=de0277e1-fcab-4a84-8d1a-9dcdbdac7d05&isTvod=false.m3u8
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
 http://103.141.2.37:25461/live/web/web/594.m3u8
@@ -200,4 +200,5 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsu
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
 http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
+
 
