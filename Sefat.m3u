@@ -36,7 +36,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://www.bioscopelive.com/channel/asian-tv-hd?contentUuid=de0277e1-fcab-4a84-8d1a-9dcdbdac7d05&isTvod=false.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
-https://m.youtube.com/watch?v=tAyN9d6Zbss.m3u8
+http://103.141.2.37:25461/live/web/web/594.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
@@ -73,8 +73,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU2xaxmwRPjv3eMSqgX55tBtBMb9eZIfHbbw&usqp=CAU",duronto-tv
-http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
-
+http://103.141.2.37:25461/live/web/web/610.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzFa692km2NL5BdivfGPw5jKcstROKDpCUQ&usqp=CAU",Voice Tv   
 http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
@@ -83,7 +82,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+http://103.141.2.37:25461/live/web/web/591.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225716&extension=ts&play_token=dNNHF1oIfM
@@ -107,7 +106,7 @@ https://yupptvpreviewire.akamaized.net/preview/wowkidzhin/2500.m3u8?hdnts=644
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8?token=7544
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
-http://103.167.167.5:8111/play/a00e/index.m3u8
+http://103.141.2.37:25461/live/web/web/615.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
 https://siloh.pluto.tv/lilo/production/Nick/04/master_2.m3u8
@@ -119,7 +118,7 @@ https://siloh.pluto.tv/lilo/production/Nick/01/master_2.m3u8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yay    
-http://files4.3y1.xyz/media/video/nosignal_h264/playlist.m3u8
+http://103.141.2.37:25461/live/web/web/614.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliEjPXGJeU9ATV4r00fcP3bVrJtEYn6EIVw&usqp=CAU",Kids Creation TV  
 https://moonbug-rokuus.amagi.tv/playlist720-p.m3u8
@@ -201,6 +200,4 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsu
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
 http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
-
-
 
