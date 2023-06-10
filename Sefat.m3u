@@ -23,7 +23,7 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8?87655
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU ",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDn7ZjfRKAYkgcpO-dn8I0CeHzhTJyOL0K5XyZCXuMDbFoSuzuPGrHW-E&s=10",Dbc News
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV2" tvg-logo="https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/353448121_589352826670309_6310049322026062783_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=107&ccb=1-7&_nc_sid=5bac3a&_nc_ohc=871Wck2orvcAX8ymZg6&_nc_ht=scontent.fdac5-2.fna&oh=00_AfBr7qSQzr0bweueuBJBp8zLIASNmxt6TF89z_w68iKHFQ&oe=64897F40",Dbc News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
