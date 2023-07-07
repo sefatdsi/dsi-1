@@ -8,7 +8,7 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
 https://live.islamchannel.tv/islamtv_english/4/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-VUQ1MoKLHsd_xvvee8Op5PrDN2twL3X7A6VOWNbATrkzmOzPxAa7ULE3_4uXUU4NWDqTUV6Jncw3_-IC4pqei8JnlX8A3L-4G2DxOFwrHBqERNra0j55aIss5UWdK5ytccOK40m-nrxoFo_bIR_0pXUrTT9vRdm0jDquSzdOrRSBfyPAM8LQCaZG5I/s828/Screenshot_20230612-031218_1.bin",Madani Channel
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://gcdnb.pbrd.co/images/BySQ2fj85Lko.png?o=1",Madani Channel
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
