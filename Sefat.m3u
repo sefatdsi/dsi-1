@@ -6,9 +6,9 @@ http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
-https://live.islamchannel.tv/islamtv_english/4/prog_index.m3u8
+https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://gcdnb.pbrd.co/images/BySQ2fj85Lko.png?o=1",Madani Channel
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qij0qZKUDrfswpJgkz5UkK1kdA_rpyrVCFJGBmThusbc8ietF8tdKlI&s=10",Madani Channel
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
@@ -30,7 +30,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8?token=5745900
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
+http://0nelivezer0.rbtvnw.com:21190/vesta/independenttv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgNDoxNjozMyBBTSZoYXNoX3ZhbHVlPWJHbUVFTS9kWERMOGM4VDVoUmxncXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -50,11 +50,11 @@ https://google.com@tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NT
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
 http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8?token=74566
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi TV HD
-https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
+http://172.16.29.250/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee ২৪ ঘন্টা
-https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwYT9bs65T6eT4R4vbnJpmSWe1AZhboh0U9lSrf70iliIhatzJa9EBoK3&s=10",ABP Ananda
 https://abpmitv.akamaized.net/hls/live/2042839/ananda/master_360p.m3u8
@@ -82,7 +82,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
-http://103.141.2.37:25461/live/web/web/591.m3u8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKURTsVqVjFHOJNWtnEYCpuBBrF55kd2x11tbBDaoyyRSCoiDvKnz_AF4b&s=10",Akash Aath
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225716&extension=ts&play_token=dNNHF1oIfM
@@ -91,7 +91,7 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225716&extensi
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel 
-http://208.86.19.13:81/14.stream/index.m3u8
+http://177.53.153.21:8001/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
 http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8?token=test
@@ -100,7 +100,7 @@ http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8?token=test
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR644
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
-https://yupptvpreviewire.akamaized.net/preview/wowkidzhin/2500.m3u8?hdnts=644
+https://yupplivefragcp5.yuppcdn.net/030523/smil:wowkidzhin.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016", Rongeen tv   
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8?token=7544
@@ -127,19 +127,19 @@ https://moonbug-rokuus.amagi.tv/playlist720-p.m3u8
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/cb543d1e786c668f84cb3a63cef343a4f94e1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c505677af6cad027ed7a50cae0a2d6c6634dac4e71c8ccb6950f6c70a292dad791841e6756db4582f3e99e51303807d927c0618e7402e753a9fb204f86953c588148b612995adcd1c662f0303ca4d3eb4f60fe1a6fe5846df72a2b70e5c952643eed141ce8101ead3d25e83428723a5099494f183ce118085c737a150b76d5101734fb7ea0dfb5cc99fa0f84b1dde1b0a471052eaa297fb5d34f428293ed9ccbb74e16271b4ed04926936c160d22fd671e2c3cb78f5d41eea64688862382b4e2adff3d096c5eae0da263abc29dfaae8d672465e977e606ac677d12e2739dfa88544c48b399fb8369def293c36c4834a9299f2d2beebcd7eb906e4e8b4b31b14452a4423964dae9f5ade2bf671bc8146720b0317fbda1defaeed731c2e0f8a8955d1533cbcd8808c964e18c2721457ed2f880b5d229c7a3c32b56dd4953e6585234ab6343bfa4a3ccf17afef62a6f1a9886c5c94d0c350f066ebc76883a778d507596d07b0fc232d207878d3e0694f5c54cc47eddfcfa147010fe2f2c79c9902ce51f71304d765d60550c5f31c10d75d/91/1280x720_2657600/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6cIrsbeGfVkNSkrEzZKJCeKbszSfmwpJQA&usqp=CAU",Love Nature 
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/108218
+https://d18dyiwu97wm6q.cloudfront.net:443/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg",BBC EARTH
-http://103.218.25.12:89/play/a021/index.m3u8
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
-http://180.178.188.152:8000/play/a011
+http://177.53.153.21:8001/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
 https://sefatdsi.github.io/dth/DiscoveryHD.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Tarbu
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
 https://sefatdsi.github.io/dth/DiscoveryScience.m3u8
@@ -160,10 +160,10 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO WILD 
-https://av-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC 
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8
+https://github.com/OngisMbois/iptv/raw/main/tlc.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",TravelXP 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
@@ -193,10 +193,10 @@ http://180.178.188.152:8000/play/a018
 http://@lexitech.fun/PatrickF/1jvJAEOIjF/3372775
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
-http://180.178.188.152:8000/play/a075
+http://175.107.244.52:4457/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kHMX2sXvp5qqkKnmqtZI0NEUaWUCRNc00A&usqp=CAU",Euro Sport 
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
+https://9dc1.short.gy/Euro_Sports.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
 http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
