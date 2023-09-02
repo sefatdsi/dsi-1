@@ -48,7 +48,7 @@ https://channel24.jaagobd.com/channel24/channel24-sg-e8e.stream/chunks.m3u8
 https://google.com@tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8?645777
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
-http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8?token=74566
+https://ythls.onrender.com/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
 https://ythls.onrender.com/channel/UCXuHIkEezOy_b1pnkN0-TIg.m3u8
@@ -80,20 +80,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
 http://103.141.2.37:25461/live/web/web/591.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids 
-https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://assets.disneychannel.ca/wp-content/uploads/2021/04/09103721/Social_DC_Logo.png",Disney Channel 
-http://45.5.117.182:8000/play/a0it/index.m3u8
-
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 
 http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg",PBS KIDS 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR644
-
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_4PLdt_i-luncy01BbM1UnsUPVskXPKaD1WKIWi4Z7OxnayPc7RE4QMV&s=10",Wow Kids
-https://yupplivefragcp5.yuppcdn.net/030523/smil:wowkidzhin.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016", Rongeen tv   
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8?token=7544
@@ -101,17 +92,11 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
 http://103.141.2.37:25461/live/web/web/615.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G7cmj2y9GxIDY6jnaMJCSERDVUHXsVLveA&usqp=CAU",Nick jr
-https://siloh.pluto.tv/lilo/production/Nick/04/master_2.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMl8y3G_QDpCEpZ3e3zSfCWuUhZOxq4jH4g&usqp=CAU", Nick Pluto
-https://siloh.pluto.tv/lilo/production/Nick/01/master_2.m3u8
-
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yay    
-https://toffee-thecodecrafters.vercel.app/auto/sony_yay.m3u8
+https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliEjPXGJeU9ATV4r00fcP3bVrJtEYn6EIVw&usqp=CAU",Kids Creation TV  
 https://moonbug-rokuus.amagi.tv/playlist720-p.m3u8
