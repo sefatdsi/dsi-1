@@ -141,14 +141,13 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://103.141.2.37:25461/live/web/web/568.m3u8?
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO WILD 
-http://103.141.2.37:25461/live/web/web/576.m3u8?
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+https://ythls.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC 
-https://github.com/OngisMbois/iptv/raw/main/tlc.m3u8
+https://s6.hopslan.com/tlc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",TravelXP 
-http://103.141.2.37:25461/live/web/web/593.m3u8?
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGLQW9WuuEdBPu0Vpnvf05X00wkx83IE8fnl6qAhgJHDihDQUEYZnU9s&s=10",Red-Bull-TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -181,5 +180,7 @@ https://9dc1.short.gy/Euro_Sports.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
 http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
+
+
 
 
